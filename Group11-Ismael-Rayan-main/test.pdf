@@ -1,0 +1,34 @@
+PROJECT
+
+Ismael & Rayan (A)
+
+Domain: AI and Machine learining
+
+Data: 
+Tabular: Rows and columns
+Images: group of pixels
+Text: words converted to numbers
+Time series: values ordered in time
+Audio: sounds signals as numbers
+
+Operations:
+Load data: read information
+Clean data: remove irrelevant information
+Transform data: convert categories to numbers
+Split data: separate information
+Train the model: the model learn patterns
+Evaluate the model: measure how good the predictions are
+Predict: use the model with new information
+
+Input/Output:
+Input: features and labels, new features and prediction with the reality
+Output: Trained model, a prediction and performance result
+
+Decisions:
+What problem do I want to solve? 
+What data do I need? 
+Which algorithm should I use? 
+How do I measure success?
+
+
+
